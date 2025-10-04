@@ -1,0 +1,20 @@
+# Ignore the virtual environment
+.venv/
+
+# Ignore Python's temporary cache files
+__pycache__/
+*.pyc
+
+# Ignore Reflex's temporary build and state folders
+.web/
+.states/
+
+# Ignore editor-specific settings
+.vscode/
+
+# --- CRITICAL: Ignore all secrets and user data! ---
+.env
+credentials.json
+token.json
+*.db
+uploaded_files/
