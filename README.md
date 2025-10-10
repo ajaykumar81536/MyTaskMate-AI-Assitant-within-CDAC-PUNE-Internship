@@ -38,6 +38,15 @@ This multi-agent design makes the system highly efficient, scalable, and special
 
 -----
 
+### Data flow Diagram
+
+## Level 0 DFD:
+![Level 0 DFD of MyTaskMate](assets/dfd_level_0.png)
+
+## Level 1 DFD:
+![Level 0 DFD of MyTaskMate](assets/dfd_level_1.png)
+
+
 ### 🛠️ Tech Stack
 
 | Component             | Technology                                       |
